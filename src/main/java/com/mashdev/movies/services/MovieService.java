@@ -1,6 +1,7 @@
-package com.mashdev.movies;
+package com.mashdev.movies.services;
 
-import org.bson.types.ObjectId;
+import com.mashdev.movies.models.Movie;
+import com.mashdev.movies.repositories.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

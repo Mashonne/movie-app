@@ -1,5 +1,6 @@
-package com.mashdev.movies;
+package com.mashdev.movies.repositories;
 
+import com.mashdev.movies.models.Movie;
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;

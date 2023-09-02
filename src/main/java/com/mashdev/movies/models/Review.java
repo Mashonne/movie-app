@@ -1,4 +1,4 @@
-package com.mashdev.movies;
+package com.mashdev.movies.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
